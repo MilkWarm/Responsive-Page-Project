@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="eng">
+    <head>
+<title>Responsive-Page-Project</title>
+<style>
+    body {
+        background-color: black;
+    }
+    h2 {
+        color: palegoldenrod;
+        font: 60px Arial;
+        text-align: center;
+    }
+p {
+    color: antiquewhite;
+   ;
+    font: 30px Sans serif;
+}
+p.outset {border-style: outset; padding: 80px; display: inline-block;}
+p {margin-top: 200px;margin-left:665px;}
+img {display: block; margin-left: auto;margin-right: auto;width: 430px;height: 500px;}
+</style>
+</head>
+<body>
+    <h2>Sign-in</h2>
+    <p class="outset">Username: <br>
+<input type="text"> <br>
+Password: <br>
+<input type="text"> <br>
+<input type="submit" value="Submit">
+    </p>
+    <img src="https://cbx-prod.b-cdn.net/COLOURBOX11014447.jpg?width=800&height=800&quality=70">
+
+</body>
